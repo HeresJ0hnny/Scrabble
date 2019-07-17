@@ -1,0 +1,11 @@
+players: x
+skip: x
+turn: x
+gameState: playing
+bag: [ a b c d e f ... ]
+[ . . . . a b c d e . . . . . . ]
+[ . . . . . . . . . . . . . . . ]
+...
+player 1 | score: x, hand: [ a b c d e f g ]
+player 2 | score: x, hand: [ a b c d e f g ]
+...

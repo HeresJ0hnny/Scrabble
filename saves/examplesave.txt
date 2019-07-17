@@ -1,0 +1,23 @@
+players: 3
+skip: 0
+turn: 0
+gameState: endgame
+bag: [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
+[ a . . + . . . i . . . + . . m ]
+[ x u . . . z o o n * . . . b a ]
+[ . n 2 . . i + . + . . . R o m ]
+[ + t . d e l l y . h a v e n + ]
+[ p i p e 2 a . a r . 2 e v e . ]
+[ . e . . . * . . i f . i . d . ]
+[ q i + . . . + . c . . l + . . ]
+[ i n . + . . . b e s t s . . 3 ]
+[ . g u . . . w a d . . . + . n ]
+[ . * . . . j e t . * l . h * e ]
+[ . . . c o a t e d . u . u . w ]
+[ + . . o . . . s o a r i n g s ]
+[ . . f o r g e . + . . . k . I ]
+[ t r a t . * . . . * . . y 2 e ]
+[ o . . + . . . 3 . . . + . . r ]
+player 1 | score: 271, hand: [ . . . . . . . ]
+player 2 | score: 212, hand: [ . . . i . . . ]
+player 3 | score: 303, hand: [ . r . . . . . ]
